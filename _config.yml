@@ -6,7 +6,7 @@ description         : >-
                       and never broke production.
 baseurl             : "/nkf0109"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : nkf0109/nkf0109.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : nkf0109/portfolYOU
+remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -34,7 +34,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : Alice Kwai Fan Ng
+  linkedin          : Alice Kwai Fan
   #medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
