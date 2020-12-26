@@ -1,18 +1,18 @@
 - name: Joomla!CMS
   percentage: 90
-  color: warning
+  color: info
 
 - name: Autodesk Revit
   percentage: 90
-  color: success
+  color: info
 
 - name: ARCHIBUS
   percentage: 90
-  color: warning
+  color: info
 
 - name: Adobe Photoshop
   percentage: 80
-  color: info
+  color: warning
   
 - name: SQL
   percentage: 70
