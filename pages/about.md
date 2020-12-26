@@ -6,9 +6,8 @@ weight: 3
 ---
 
 # **About Me**
-var align = require('align-text');
-align (Hi I am **{{ site.author.name }}** :wave:,<br>
-Experienced Project Coordinator/Application Consultant with excellent project management and technical skills. Action-oriented with strong ability to communicate effectively with technology, executive, and business audiences. Self-motivated and dependable while achieving high performance with minimal supervision.)
+Hi I am **{{ site.author.name }}** :wave:,<br>
+Experienced Project Coordinator/Application Consultant with excellent project management and technical skills. Action-oriented with strong ability to communicate effectively with technology, executive, and business audiences. Self-motivated and dependable while achieving high performance with minimal supervision.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
