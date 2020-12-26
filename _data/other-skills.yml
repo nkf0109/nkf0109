@@ -1,18 +1,14 @@
 - name: Joomla!
-  percentage: 80
-  color: purple
+  percentage: 90
+  color: warning
 
 - name: Autodesk Revit
-  percentage: 80
-  color: blue
+  percentage: 90
+  color: success
 
 - name: ARCHIBUS
   percentage: 90
-  color: pink
-  
-- name: SQL
-  percentage: 90
-  color: yellow
+  color: warning
 
 - name: Adobe Photoshop
   percentage: 80
@@ -21,3 +17,7 @@
 - name: Adobe Illustrator
   percentage: 80
   color: success
+  
+- name: SQL
+  percentage: 70
+  color: yellow
