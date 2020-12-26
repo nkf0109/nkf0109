@@ -17,12 +17,12 @@ email:
   color : db4437
 
 facebook:
-  url   : https://www.facebook.com/
+  url   : 
   icon  : fab fa-facebook
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://nkf0109.github.io/nkf0109
   icon  : fab fa-github
   color : 333333
 
@@ -32,7 +32,7 @@ gitlab:
   color : fca326
 
 instagram:
-  url   : https://www.instagram.com/
+  url   : https://www.instagram.com/gnnafiawk/
   icon  : fab fa-instagram
   color : 405de6
   
@@ -42,7 +42,7 @@ kaggle:
   color : 20beff
 
 linkedin:
-  url   : https://www.linkedin.com/in/
+  url   : www.linkedin.com/in/alice-kwai-fan-ng-751b76174
   icon  : fab fa-linkedin-in
   color : 007bb5
 
