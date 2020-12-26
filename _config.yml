@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Profile
 description         : >-
-                      I turn coffee into code,
+                      I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
 baseurl             : "/nkf0109"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
