@@ -5,6 +5,7 @@ weight: 2
 permalink: /gallery/
 weight: 3
 ---
+
 {% for item in page.images %}
 <div class="lightbox" id="lightbox{{ forloop.index }}">
   <div class="table">
