@@ -48,6 +48,8 @@ author:
 
 ### Posts ###
 permalink: /blog/:title
+imagesurl: "/mysite/img/"
+thumbsurl: "/mysite/thumbs/"
 
 
 ### Collections ###
