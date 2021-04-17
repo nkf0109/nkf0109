@@ -5,17 +5,4 @@ weight: 2
 permalink: /gallery/
 weight: 3
 ---
-
-{% for item in page.images %}
-<div class="lightbox" id="lightbox{{ forloop.index }}">
-  <div class="table">
-    <div class="table-cell">
-      <img class="close" src="/img/close.svg" />
-      <img class="next" src="/img/next.svg" />
-      <img class="prev" src="/img/prev.svg" />
-      <div class="item" style="background: url('{{ https://i.imgur.com/LPgQVsZ.jpg }}') center center no-repeat; background-size: cover;">
-      </div>
-    </div>
-  </div>
-</div>
-{% endfor %}
+image: https://i.imgur.com/ccJ2n88.jpg
