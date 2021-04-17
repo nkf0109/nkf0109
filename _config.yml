@@ -91,7 +91,7 @@ defaults:
       path: ""
       type: "fun"
     values:
-      layout: "page"
+      layout: "menu"
 
 ### Exclude from processing ###
 exclude:
