@@ -87,11 +87,6 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-  - scope:
-      path: ""
-      type: "fun"
-    values:
-      layout: "menu"
 
 ### Exclude from processing ###
 exclude:
