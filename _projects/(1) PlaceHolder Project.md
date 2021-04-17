@@ -1,7 +1,7 @@
 ---
 name: Open Up
 tools: [MongoDB, HeidiSQL, Microsoft Azure, Microsoft Power BI]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: https://i.imgur.com/ccJ2n88.jpg
+description: Supported by the funding of the Hong Kong Jockey Club Charities Trust, Open Up is an online text platform designed specifically to cater the needs of youngsters experiencing emotional distress from different aspects such as family issues, interpersonal relationships and academic stress. Through connecting to the online text platform when they feel necessary, youngsters could ventilate their sufferings and stress and could feel a sense companion and self-determination
 external_url: www.openup.hk
 ---
