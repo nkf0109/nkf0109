@@ -8,11 +8,11 @@
   
 - name: MongoDB
   percentage: 80
-  color: dark
+  color: info
   
 - name: HeidiSQL
   percentage: 70
-  color: dark
+  color: danger
   
 - name: Microsoft Azure
   percentage: 80
