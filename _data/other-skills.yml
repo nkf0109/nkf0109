@@ -14,6 +14,3 @@
   percentage: 80
   color: warning
   
-- name: SQL
-  percentage: 70
-  color: dark
