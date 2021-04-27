@@ -1,9 +1,13 @@
 - name: JavaScript
-  percentage: 80
+  percentage: 70
   color: danger
 
 - name: HTML/CSS
-  percentage: 70
+  percentage: 60
+  color: dark
+  
+- name: MongoDB
+  percentage: 80
   color: dark
   
 - name: HeidiSQL
@@ -11,5 +15,5 @@
   color: dark
   
 - name: Microsoft Azure
-  percentage: 70
+  percentage: 80
   color: dark
