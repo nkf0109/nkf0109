@@ -4,13 +4,16 @@
 
 - name: Autodesk Revit
   percentage: 90
-  color: info
+  color: darken
 
 - name: ARCHIBUS
   percentage: 90
-  color: info
+  color: inherit
 
 - name: Adobe Photoshop
   percentage: 80
-  color: warning
+  color: gray-light
   
+- name: Microsoft Power BI
+  percentage: 80
+  color: warning
