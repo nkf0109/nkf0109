@@ -5,3 +5,11 @@
 - name: HTML/CSS
   percentage: 70
   color: dark
+  
+- name: HeidiSQL
+  percentage: 70
+  color: dark
+  
+- name: Microsoft Azure
+  percentage: 70
+  color: dark
