@@ -8,12 +8,12 @@
 
 - name: ARCHIBUS
   percentage: 90
-  color: inherit
+  color: warning
 
 - name: Microsoft Power BI
   percentage: 80
-  color: warning
+  color: info
   
 - name: Adobe Photoshop
   percentage: 80
-  color: gray-light
+  color: darken
