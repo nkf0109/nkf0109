@@ -10,10 +10,10 @@
   percentage: 90
   color: inherit
 
-- name: Adobe Photoshop
-  percentage: 80
-  color: gray-light
-  
 - name: Microsoft Power BI
   percentage: 80
   color: warning
+  
+- name: Adobe Photoshop
+  percentage: 80
+  color: gray-light
