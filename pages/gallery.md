@@ -1,5 +1,5 @@
 ---
-title:  How to set up the Masonry Layout with an Image Lightbox
+title:  Gallery
 tags:
   - Friday Theme
   - HTML
